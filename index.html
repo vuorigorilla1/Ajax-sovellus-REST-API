@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AlbumFinder</title>
+  <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+  <header>
+    <h1>AlbumFinder</h1>
+    <p>Kirjoita artistin nimi tekstikenttään nähdäksesi albumit ja kappaleet</p>
+  </header>
+
+  <main>
+    <!-- tämä käynnistää artistin albumien haun -->
+    <section class="search-panel" aria-label="Artistin haku">
+      <form id="search-form">
+        <label for="artist-input">Artistin nimi</label>
+        <div class="search-row">
+          <input id="artist-input" type="search" placeholder="Esim. Bull of Heaven" required maxlength="100">
+          <button type="submit">Hae</button>
+        </div>
+      </form>
+    </section>
+
+    <!-- API:sta hankitut albumit tulevat tähän -->
+    <section aria-labelledby="results-title">
+      <h2 id="results-title">Albumit</h2>
+      <p id="status" role="status"></p>
+      <div id="albums" class="album-grid"></div>
+    </section>
+  </main>
+  <br>
+  <footer>Sivuston tiedot ovat peräisin täältä: <a href="https://www.last.fm/">Last.fm</a></footer>
+  <script src="js/javascript.js" defer></script>
+</body>
+</html>
