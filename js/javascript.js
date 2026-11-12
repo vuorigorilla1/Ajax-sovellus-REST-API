@@ -1,6 +1,5 @@
 const API_AVAIN = '5efadda44b1532d073e31f0d2885dce3';
 
-// Haetaan sivun HTML-elementit.
 const hakulomake = document.querySelector('#search-form');
 const artistikentta = document.querySelector('#artist-input');
 const albumialue = document.querySelector('#albums');

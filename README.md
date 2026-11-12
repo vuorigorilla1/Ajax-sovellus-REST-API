@@ -26,7 +26,7 @@ Tämä sovellus löytää API:n avulla albumeita ja näyttää niiden tiedot. Ki
 
 ## Tietoja sovelluksesta
 
-**[AlbumFinder]** on verkkosovellus, joka antaa sinun etsiä albumeita artistin nimen avulla. Kirjoitat tekstikentään artistin nimen, niin näet artistin albumit. Näet ne kuuntelumäärän hallitsemassa järjestyksessä. Voit myös nähdä mitä kappaleita missäkin albumissa on ja niiden pituudet. 
+**[AlbumFinder]** on verkkosovellus, joka antaa sinun etsiä albumeita artistin nimen avulla. Kirjoitat tekstikentään artistin nimen, niin näet artistin albumit. Näet ne kuuntelumäärän hallitsemassa järjestyksessä. Voit myös nähdä mitä kappaleita missäkin albumissa on. 
 
 ## Teknologiat
 
