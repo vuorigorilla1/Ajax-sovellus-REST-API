@@ -60,10 +60,10 @@ async function haeArtisti(artisti) {
   tulosotsikko.textContent = artisti;
   tilateksti.textContent = 'Haetaan albumeita…';
 
+
   try {
     const tiedot = await haeTiedot('artist.gettopalbums', {
       artist: artisti,
-      limit: '12',
       autocorrect: '1'
     });
 
