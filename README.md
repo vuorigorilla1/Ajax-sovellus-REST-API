@@ -20,8 +20,8 @@ Tämä sovellus löytää API:n avulla albumeita ja näyttää niiden tiedot. Ki
 
 ## Verkkolinkit
 
-- **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://yourusername.github.io/your-repository/)
-- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/yourusername/your-repository)
+- **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://vuorigorilla1.github.io/Ajax-sovellus-REST-API/)
+- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/vuorigorilla1/Ajax-sovellus-REST-API)
 - **Projektin videoesittely:** [Lisää tähän videon osoite](https://example.com/)
 
 ## Tietoja sovelluksesta

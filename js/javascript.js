@@ -16,6 +16,7 @@ async function haeTiedot(menetelma, parametrit) {
     ...parametrit
   });
 
+// hakee tietoja API:sta
   const vastaus = await fetch(
     'https://ws.audioscrobbler.com/2.0/?' + kysely
   );
