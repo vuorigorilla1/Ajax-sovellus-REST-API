@@ -20,9 +20,9 @@ Tämä sovellus löytää API:n avulla albumeita ja näyttää niiden tiedot. Ki
 
 ## Verkkolinkit
 
-- **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://vuorigorilla1.github.io/Ajax-sovellus-REST-API/)
-- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/vuorigorilla1/Ajax-sovellus-REST-API)
-- **Projektin videoesittely:** [Lisää tähän videon osoite](https://example.com/)
+- [Julkaistu sovellus](https://vuorigorilla1.github.io/Ajax-sovellus-REST-API/)
+- [GitHub-repositorio](https://github.com/vuorigorilla1/Ajax-sovellus-REST-API)
+- [Projektin videoesittely](https://youtu.be/Hvl5wELrZ28)
 
 ## Tietoja sovelluksesta
 
@@ -62,8 +62,6 @@ Kuvaile, mitä teknologioita käytit ja mikä niiden rooli oli projektissasi.
 
 ## Oma arvio ja oppimisen reflektointi
 
-Pohdi työtäsi ja oppimisprosessiasi.
-
 - Onnistuin mielestäni parhaiten sivun toimivuudessa eli Fetch API:n ja javascriptin käytössä.
 - Haastavinta oli oppia miten API:tä käytetään ja miten saan sen toimimaan projektissani.
 - Parantaisin sivun ulkonäköa ja toimivuutta. Sivu toimii hyvin, mutta laittaisin vielä filtterit sille että missä järjestyksessä näet albumit ja näkisit vielä yksittäisten kappaleiden kuuntelumäärät.
@@ -84,7 +82,7 @@ Pohdi työtäsi ja oppimisprosessiasi.
 - [JavaScript JSON](https://www.w3schools.com/js/js_json.asp)
 
 - Käytetty tekoälytyökalu: ChatGPT
-  - Miten työkalua käytettiin: ChatGPT:tä käytettiin  
+  - ChatGPT:tä käytettiin kun jäin haastavissa kohdissa jumiin, kuten Rest API:n ja JSON:nin kanssa. Sitä käytettiin myös virheiden korjaamiseen, kun sellaisia tuli vastaan eikä niitä muuten saatu korjattua. 
 
   ## Lisenssi
 
